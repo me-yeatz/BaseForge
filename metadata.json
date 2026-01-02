@@ -1,0 +1,9 @@
+
+{
+  "name": "BaseForge Technical Specification Hub",
+  "description": "A comprehensive, interactive technical specification and documentation portal for BaseForge, an open-source no-code database platform. Built with React and integrated with Gemini AI for architectural insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
