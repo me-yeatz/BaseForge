@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192" height="192" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+  <rect width="192" height="192" fill="#FF5F1F"/>
+  <rect x="15" y="15" width="162" height="162" fill="#000000" stroke="#FF5F1F" stroke-width="3"/>
+  
+  <!-- Grid pattern -->
+  <g stroke="#FF5F1F" stroke-width="1" opacity="0.3">
+    <!-- Vertical lines -->
+    <line x1="15" y1="15" x2="15" y2="177"/>
+    <line x1="45" y1="15" x2="45" y2="177"/>
+    <line x1="75" y1="15" x2="75" y2="177"/>
+    <line x1="105" y1="15" x2="105" y2="177"/>
+    <line x1="135" y1="15" x2="135" y2="177"/>
+    <line x1="165" y1="15" x2="165" y2="177"/>
+    
+    <!-- Horizontal lines -->
+    <line x1="15" y1="15" x2="177" y2="15"/>
+    <line x1="15" y1="45" x2="177" y2="45"/>
+    <line x1="15" y1="75" x2="177" y2="75"/>
+    <line x1="15" y1="105" x2="177" y2="105"/>
+    <line x1="15" y1="135" x2="177" y2="135"/>
+    <line x1="15" y1="165" x2="177" y2="165"/>
+  </g>
+  
+  <!-- Gantt chart elements -->
+  <rect x="30" y="38" width="45" height="15" fill="#FF5F1F" stroke="#000000" stroke-width="1.5"/>
+  <rect x="52" y="67" width="67" height="15" fill="#FF5F1F" stroke="#000000" stroke-width="1.5"/>
+  <rect x="37" y="96" width="37" height="15" fill="#FF5F1F" stroke="#000000" stroke-width="1.5"/>
+  <rect x="82" y="125" width="60" height="15" fill="#FF5F1F" stroke="#000000" stroke-width="1.5"/>
+  
+  <!-- Database symbol -->
+  <circle cx="135" cy="52" r="9" fill="#000000" stroke="#FF5F1F" stroke-width="1.5"/>
+  <circle cx="135" cy="52" r="5" fill="#FF5F1F"/>
+  
+  <!-- Text: BF -->
+  <text x="96" y="157" text-anchor="middle" font-family="Arial, sans-serif" font-size="45" font-weight="900" fill="#FFFFFF">BF</text>
+</svg>
